@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Data Scientist fluent in Python and R, with a Masters in Applied Statistics from Penn State. Don't take my word for it! Check out my portfolio with some of my latest projects.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Believer in big facts and low culture. Former and hopefully future DJ. Reformed political junkie. Don't even bother asking.
+
+I once spent an entire summer being terrified of AI. I'm still terrified, but if you can't beat 'em, join 'em.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[evanagovino@gmail.com](mailto:evanagovino@gmail.com)
