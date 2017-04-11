@@ -6,19 +6,19 @@ title: MTA Turnstile Project
 
 For our first project at Metis, we acted as consultants for a nonprofit tech group called WomenTechWomenYes (WTWY). WTWY is a group promoting the interests of women in technology. The group has an annual gala at the beginning of the summer each year, and needed our help to help raise awareness for the event. 
 
-###The Problem
+### The Problem
 
 Their plan was to use street teams outside of subway stations to collect e-mail addresses for people potentially interested in the gala. They were generally looking for people passionate about their cause (and perhaps passionate about giving money towards their cause), but in general wanted to build awareness and reach for their brand.
 
 Our job? To find the best subway stations for them to do this out of.
 
-###Initial Thoughts
+### Initial Thoughts
 
 For a data scientist, this is an incredibly open-ended problem. Note how general the request is - the timeframe is vague (beginning of summer), there is no idea of how many people they need to fill the gala or how many email addresses they want to collect to achieve they end (though they mentioned they generally want to build awareness and reach). We don't know anything about logistics. How big is their streetteam? How many hours can their streetteam commit? Would they rather us focus on pure quantity (thus building awareness and reach), or find people more likely to donate? Is there a minimum amount of money they need to raise at this gala?
 
 Clearly we need to make some assumptions about what they are looking for.
 
-###Assumptions
+### Assumptions
 
 We will assume that WTWY is looking for a higher quantity of email addresses collected rather than a smaller, but more targeted list of email addresses from people with a higher likelihood of being donors. We will assume they'd rather err on the side of quantity than quality.
 
@@ -27,7 +27,7 @@ With that said, we will assume that WTWY is looking for a list of email addresse
 We think that people who attend similar types of galas may be interested in this gala.
 
 
-###The Plan
+### The Plan
 
 We will go into the MTA data from the past three months to find the most popular subway stations by total weekday traffic. Focusing on data from just the work week will let us focus on people going to and from work.
 
@@ -39,7 +39,7 @@ We will filter the list of top stations by proximity to either a top tech compan
 
 From there, we will sort these stations by the most popular hourly intervals, in order to recommend the best times for the street team to go to these locations.
 
-###Results
+### Results
 
 First, we went through the past three months of MTA data to find the 50 most popular stations by total weekday volume.
 
@@ -51,12 +51,16 @@ Then, we found a list of 26 stations that were within a quarter-mile or either a
 
 Here are the 15 stations that were both in the 50 most popular stations and 26 stations close to events or tech companies.
 
-<img src="/../images/stationlist.png" width="500" />
+<img src="/../images/stationlist.png" width="800" />
 
 The top five stations based on timeframe are:
 
-1) 34th Street - Herald Square - 3 PM to 8 PM
-2) 34th Street - Penn Station - 3 PM to 8 PM
-3) 42nd Street - Times Square - 3 PM to 8 PM
-4) 14th Street - Union Square - 4 PM to 9 PM
-5) 42nd Street - Grand Central - 4 PM to 9 PM
+1) 34th Street - Herald Square - 3 PM to 8 PM  
+2) 34th Street - Penn Station - 3 PM to 8 PM  
+3) 42nd Street - Times Square - 3 PM to 8 PM  
+4) 14th Street - Union Square - 4 PM to 9 PM  
+5) 42nd Street - Grand Central - 4 PM to 9 PM  
+
+###Conclusions
+
+As
