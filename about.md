@@ -10,7 +10,7 @@ Data Scientist fluent in Python and R, with a Masters in Applied Statistics from
 
 Believer in high science and low culture. Former and hopefully future DJ. Reformed political junkie - don't even bother asking.
 
-I once spent an entire summer being terrified of AI. I'm still terrified, but if you can't beat 'em, join 'em.
+I once spent an entire summer being terrified of the prospect of AI ending humanity as we know it. I'm still terrified, but if you can't beat 'em, join 'em.
 
 ### Contact me
 
