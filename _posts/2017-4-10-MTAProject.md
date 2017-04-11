@@ -51,6 +51,12 @@ Then, we found a list of 26 stations that were within a quarter-mile or either a
 
 Here are the 15 stations that were both in the 50 most popular stations and 26 stations close to events or tech companies.
 
-<img src="/../images/stationlist.png" width="200" />
+<img src="/../images/stationlist.png" width="500" />
 
-![Map of Stations](/../images/stationlist.png =200x)
+The top five stations based on timeframe are:
+
+1) 34th Street - Herald Square - 3 PM to 8 PM
+2) 34th Street - Penn Station - 3 PM to 8 PM
+3) 42nd Street - Times Square - 3 PM to 8 PM
+4) 14th Street - Union Square - 4 PM to 9 PM
+5) 42nd Street - Grand Central - 4 PM to 9 PM
