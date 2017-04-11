@@ -61,6 +61,10 @@ The top five stations based on timeframe are:
 4) 14th Street - Union Square - 4 PM to 9 PM  
 5) 42nd Street - Grand Central - 4 PM to 9 PM  
 
-###Conclusions
+### Conclusions
 
-As
+As you can see, the results are pretty intuitive. If one were to simply guess which stations would have the highest volume, chances are that some or all of these would end up on their list, especially at the evening rush hour.
+
+As stated repeatedly, while we believe this recommendation is helpful given that we're not just going off a hunch - this is backed by three months of data - the ultimate test for what works will only be seen after the street teams get out there. Maybe they see that people at Herald Square are responding better than people at Union Square? Maybe stations with commuters have better success than stations without commuters? Or worse? Maybe people actually are more responsive on the weekends than the weekdays. Who knows? 
+
+We made many assumptions that can be proven wrong with some data. Once we see additional data come in, we'll be happy to adjust our model accordingly.
