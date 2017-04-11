@@ -8,7 +8,7 @@ Data Scientist fluent in Python and R, with a Masters in Applied Statistics from
 
 ### More Information
 
-Believer in big facts and low culture. Former and hopefully future DJ. Reformed political junkie. Don't even bother asking.
+Believer in high science and low culture. Former and hopefully future DJ. Reformed political junkie - don't even bother asking.
 
 I once spent an entire summer being terrified of AI. I'm still terrified, but if you can't beat 'em, join 'em.
 
