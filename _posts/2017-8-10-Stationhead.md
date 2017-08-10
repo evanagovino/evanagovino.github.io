@@ -76,7 +76,6 @@ artists. So it does tick most of the boxes." ```
 This seems incredibly dishonest given that they're already angling for top
 stakeholders to control the listening experience!
 
-
 ``` Terrestrial radio, according to consumer surveys, remains the largest source
 of music listening in the country, but its status as a promotion machine and a
 gatekeeper within the music industry is increasingly in question. As smart
@@ -106,8 +105,7 @@ make music subscription services more sticky." ```
 And here we come, full circle to the idea that this product is, in fact, a way
 to turn everybody into a radio DJ rather than Taylor Swift and Kanye West.
 
-None of this surprises me so much as just disappoints me. Usually this evolution
-- amazing idea grounded in 'internet democracy' gives way to corporate interests
+None of this surprises me so much as just disappoints me. Usually this evolution - amazing idea grounded in 'internet democracy' gives way to corporate interests
 and furthers industry ineuqality - takes more time to occur. Here we can see the
 utopian ideal give way to reality in one article!
 
