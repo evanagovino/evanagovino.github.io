@@ -5,8 +5,7 @@ title: Looking at the Stationhead App
 
 Lately, I've been doing some research into creating a streaming radio service
 based off Spotify. Yesterday I stumbled upon <a
-href="http://www.billboard.com/articles/business/7842255/stationhead-new-app-
-spotify-music-industry-streaming" target="_blank">this article</a> talking
+href="http://www.billboard.com/articles/business/7842255/stationhead-new-app-spotify-music-industry-streaming" target="_blank">this article</a> talking
 about Stationhead and had a few thoughts:
 
 
@@ -59,8 +58,7 @@ so much noise." ```
 Again - this idea has completely pivoted from people sharing fun playlists
 with each other to Drake, Taylor Swift and Kanye West reaching a bigger
 audience. Streaming listening habits are already <a
-href="https://www.theverge.com/2015/12/29/10636712/music-inequality-in-2015
--youtube-google-spotify-apple-tidal" target="_blank">incredibly
+href="https://www.theverge.com/2015/12/29/10636712/music-inequality-in-2015-youtube-google-spotify-apple-tidal" target="_blank">incredibly
 tilted</a>towards these top-tier artists, and this app wants to point it even
 *more* in their favor?
 
