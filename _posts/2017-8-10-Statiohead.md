@@ -7,7 +7,7 @@ Lately, I've been doing some research into creating a streaming radio service ba
 
 
 ```
-> "It turns everybody into a DJ, basically, so you can play music, you can go live, there's a great flow and people are commenting -- it's almost as if you took Facebook Live and layered it onto the platform," said Carter, speaking at the Music Biz 2017 convention in Nashville. "And it's addictive. I thought I was a DJ for the night; I stayed up until like 4 o'clock in the morning DJ'ing a set."
+> "It turns everybody into a DJ, basically, so you can play music, you can go live, there's a great flow and people are commenting -- it's almost as if you took Facebook Live and layered it onto the platform," said Carter, speaking at the Music > Biz 2017 convention in Nashville. "And it's addictive. I thought I was a DJ for the night; I stayed up until like 4 o'clock in the morning DJ'ing a set."
 ```
 
 I don't want to knock this idea right off the bat - it sounds fun. People loved using Turntable FM and it seems inevitable that something similar using Spotify would come along.
