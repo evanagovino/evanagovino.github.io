@@ -1,4 +1,7 @@
---- layout: post title: Looking at the Stationhead App ---
+--- 
+layout: post 
+title: Looking at the Stationhead App 
+---
 
 Lately, I've been doing some research into creating a streaming radio service
 based off Spotify. Yesterday I stumbled upon <a
