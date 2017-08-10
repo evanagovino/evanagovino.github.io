@@ -50,7 +50,9 @@ general counsel for SoundExchange who is now a partner at Wilson Sonsini
 Goodrich & Rosati, which represents Stationhead. "And the fact that they can
 make money off it and they can help break bands and the labels can get their
 artists to do it; this is a very, very powerful tool in an age where there's so
-much noise." ``` Again - this idea has completely pivoted from people sharing
+much noise." ``` 
+
+Again - this idea has completely pivoted from people sharing
 fun playlists with each other to Drake, Taylor Swift and Kanye West reaching a
 bigger audience. Streaming listening habits are already <a
 href="https://www.theverge.com/2015/12/29/10636712/music-inequality-in-2015
@@ -62,7 +64,6 @@ For the record I've enjoyed the Drake radio shows and they have broken some new
 artists. So if this wants to be Beats 1 with the caveat that the artists will
 get paid for being on a show, that's fine. But this service should decide
 whether it wants to be Turntable FM or Beats 1.
-
 
 ``` "It democratizes the playlist process," says Rob Wells, former head of
 digital at Universal Music Group and now an advisor to Stationhead. "You're no
@@ -76,7 +77,8 @@ artists. So it does tick most of the boxes." ```
 This seems incredibly dishonest given that they're already angling for top
 stakeholders to control the listening experience!
 
-``` Terrestrial radio, according to consumer surveys, remains the largest source
+``` 
+Terrestrial radio, according to consumer surveys, remains the largest source
 of music listening in the country, but its status as a promotion machine and a
 gatekeeper within the music industry is increasingly in question. As smart
 phones have become ubiquitous and digital radio and streaming services have
@@ -91,7 +93,8 @@ But Stationhead's model is not the same as radio's, which is regulated by the
 FCC. Because it's built on top of a fully-licensed streaming service,
 Stationhead doesn't need to have deals with record labels and publishers;
 Spotify's licenses take care of that for them, and its underlying system makes
-royalty payments automatic. ```
+royalty payments automatic. 
+```
 
 If they want to replicate the terrestrial radio platform online, they should
 just market it as that.
