@@ -63,7 +63,7 @@ Again - this idea has completely pivoted from people sharing fun playlists
 with each other to Drake, Taylor Swift and Kanye West reaching a bigger
 audience. Streaming listening habits are already <a
 href="https://www.theverge.com/2015/12/29/10636712music-inequality-in-2015-youtube-google-spotify-apple-tidal" target="_blank">incredibly
-tilted</a>towards these top-tier artists, and this app wants to point it even
+tilted</a> towards these top-tier artists, and this app wants to point it even
 *more* in their favor?
 
 For the record I've enjoyed the Drake radio shows and they have broken some
