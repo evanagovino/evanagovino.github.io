@@ -1,0 +1,11 @@
+---
+layout: page
+title: Resources
+permalink: /resources/
+---
+
+Here I wanted to collect various websites that contain resources for data science and programming. I've been asked everything under the sun in interviews, and wanted to create a reference page that is a one-stop-shop for any data science-related issues.
+
+### Ensemble Methods
+
+<a href="https://discuss.analyticsvidhya.com/t/what-is-the-fundamental-difference-between-randomforest-and-gradient-boosting-algorithms/2341/3" target="_blank">Random Forest vs. Gradient Boosting</a> - The two videos at the bottom of this post (via Udacity) explain both the Random Forest and Gradient Boosting alogorithms work. This is the clearest explanation of the two I've come across.
