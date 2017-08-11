@@ -9,3 +9,7 @@ Here I wanted to collect various websites that contain resources for data scienc
 ### Ensemble Methods
 
 <a href="https://discuss.analyticsvidhya.com/t/what-is-the-fundamental-difference-between-randomforest-and-gradient-boosting-algorithms/2341/3" target="_blank">Random Forest vs. Gradient Boosting</a> - The two videos at the bottom of this post (via Udacity) explain both the Random Forest and Gradient Boosting alogorithms work. This is the clearest explanation of the two I've come across.
+
+### Case Studies
+
+<a href="http://blog.yhat.com/posts/predicting-customer-churn-with-sklearn.html" target="_blank">Predicting Customer Churn With Sci-Kit Learn</a>
