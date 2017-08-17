@@ -42,7 +42,7 @@ def create_new_df(df, player_list):
     return new_df
 ```
 
-Now I want to pull the page using Beautiful Soup to find the salaries that are tagged as Player Option, Team Option, etc... I'll keep a list of the players and salaries tagged with this and then change the tag for those players accordingly.
+Now I want to pull the page using Beautiful Soup to find the salaries that are tagged as Player Option, Team Option, etc.... I can find the respective CSS Selectors for these and pull all instances of the page. I can then use the 'find previous sibling' function to find the tag for the associated player. I'll keep a list of the players and salaries tagged with this and then change the tag for those players accordingly.
 
 ```
 def pull_content(html='https://www.basketball-reference.com/contracts/players.html'):
