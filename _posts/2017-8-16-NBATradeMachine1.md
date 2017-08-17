@@ -1,75 +1,25 @@
 ---  
 layout: post  
-title: Custom NBA Trade Machine Part Two 
+title: Custom NBA Trade Machine Part One 
 ---
 
-So I finished the first part of the project, which was pulling the information about player salaries. This was much easier than expected, thanks to Basketball Reference which has all of this information conveniently available on <a href='https://www.basketball-reference.com/contracts/players.html'>one page</a>.
+While I have some extra time on my hands, I wanted to do some fun stuff with this upcoming NBA season. I've flirted with making prediction models for the NBA before; a few years ago I tried creating optimal lineups for FanDuel with Excel's 'Solver' function and uh...let's just say I can't retire from that one. But as a huge NBA fan and someone trying to break into data science, it seems silly to not do some fun stuff with basketball analytics.
 
-The code below pulls the table from this page with the very simple Pandas 'Read HTML' function.
+The ESPN Trade Machine has been a nerd staple for what has to be ten or fifteen years at this point - essentially it gives you a dashboard to let you come up with fake trades and keeps you within the bounds of the CBA rules so that only trades that can actually be done will be allowed to pass. It's fun and easy to use but still limited - I don't think I've seen it updated at all since it was created, either functionality or design-wise. For instance you can't throw in picks to the trade (nor get an approximate value for what a pick is worth) and the only metrics they give you are PER for each player (even worse, during the offseason the PER is 'N/A'). The Trade Machine then gives you 'Hollinger's Analysis' that project the change in wins for each team, but the process behidn that metric is unknown. Shoutout to John Hollinger, but it sounds like it could use some updating (also John Hollinger hasn't worked at ESPN for several years which tells you how old it is).
 
-```
-def create_initial_df(html='https://www.basketball-reference.com/contracts/players.html'):
-    my_table = pd.read_html(html)
-    df = my_table[0]
-    new_cols = []
-    for things in df.columns:
-        new_cols.append(things[1])
-    df.columns = new_cols
-    df = df.drop('Rk', axis=1)
-    df = df[(df['Player'] != 'Salary') & (df['Player'] != 'Player')]
-    return df
-```
+So I want to try my hand at creating a trade machine that I'll host at this site. There are a few steps to do this:
 
-If you look on their page, you'll see that the table is set up so that there is one player on each row, with multiple years of contracts represented on each row. This won't work for me because there are some years that have contract clauses such as Player Option, Team Option, etc... I want to change the structure of the dataframe so that each year has the player and one year (i.e one player will have multiple rows)
+1) Pull all of the salary data for each player from Hoops Hype or another website with salary information and create a database that will store this information as well as periodically update it.
 
-```
-def create_player_list(df):
-    i = 0
-    player_list = []
-    while i < len(players):
-        j = 2
-        while j < 8:
-            my_list = list([df.iloc[i, 0], df.iloc[i, 1], df.columns[j], df.iloc[i, j]])
-            player_list.append(my_list)
-            j += 1
-        i += 1
-    return player_list
+2) Write the functionality to propose trades and the logic to accept or reject them based on CBA rules.
 
-def create_new_df(df, player_list):
-    new_df = pd.DataFrame(player_list)
-    new_df.columns = ['Player', 'Team', 'Year', 'Salary']
-    new_df['Type'] = 'Regular'
-    return new_df
-```
+3) See what analytics I can put in - perhaps I can create forecasts for each player for the 2017 season based on past data. I could also create forecasts for future draft picks based on past data.
 
-Now I want to pull the page using Beautiful Soup to find the salaries that are tagged as Player Option, Team Option, etc... I'll keep a list of the players and salaries tagged with this and then change the tag for those players accordingly.
+4) Develop a Flask app as a front end so that people can use it in a web broswer.
 
-```
-def pull_content(html='https://www.basketball-reference.com/contracts/players.html'):
-    tags = ['.salary-pl', 'salary-et', '.salary-tm']
-    labels = ['Player Option', 'Early Termination Option', 'Team Option']
-    webpage = requests.get(html)
-    content = webpage.content
-    soup = BeautifulSoup(content)
-    return soup
+Step 3, in my opinion, will be the most challenging. I'll have to think a lot about creating an accurate forecasting model for NBA players.
 
-def change_tags(new_df, soup):
-    for i in range(len(tags)):
-        for label in soup.select(tags[i]):
-            try:
-                money = label.text.strip()
-                player = label.find_previous_sibling(attrs={'data-stat':'player'}).text.strip()
-                label = labels[i]
-                new_df['Type'][(new_df['Player'] == player) & (new_df['Salary'] == money)] = label
-            except:
-                continue
-    return new_df
-```
+But I like this project - it combines building a database, building a Flask app, and doing prediction modeling.
 
-Now I have a dataframe with the player, year, salary, and type of salary!
-
-<img src="/../images/bballdataframe_1.png" width="800" />
-
-Next I can work on setting up the trade logic and getting it to work on the command line. Enjoying this so far!!
-
+I'll update as I go along. Looking forward to this one! 
 
