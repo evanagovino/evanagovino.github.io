@@ -3,7 +3,7 @@ layout: post
 title: Custom NBA Trade Machine Part Two 
 ---
 
-So I finished the first part of the project, which was pulling the information about player salaries. This was much easier than expected, thanks to Basketball Reference which has all of this information conveniently available on <a href='https://www.basketball-reference.com/contracts/players.html'>one page</a>.
+So I finished the first part of the project, which was pulling the information about player salaries. This was much easier than expected, thanks to Basketball Reference which has all of this information conveniently available on <a href='https://www.basketball-reference.com/contracts/players.html' target="_blank">one page</a>.
 
 The code below pulls the table from this page with the very simple Pandas 'Read HTML' function.
 
