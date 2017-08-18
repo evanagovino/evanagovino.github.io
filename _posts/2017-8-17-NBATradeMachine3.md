@@ -7,27 +7,27 @@ Today I was able to get a basic function of the Trade Machine working at the com
 
 First it asks you which teams you want to trade with at the command line and shows you the rosters of each team (loaded from the dataframe created in <a href='http://www.evan.ag/NBATradeMachine2/' target="_blank">Part Two</a>).
 
-<img src="/../images/nba_commandline_screenshot1.png" width="800" />
+<img src="/../images/nbacommandline_screenshot1.png" width="800" />
 
 It then asks you which players you want to add to the trading block and lets you do it, player by player.
 
-<img src="/../images/nba_commandline_screenshot2.png" width="800" />
+<img src="/../images/nbacommandline_screenshot2.png" width="800" />
 
 Once the trade is done, it evaluates it to see if it makes sense within CBA standards (essentially if the combined salaries of each side is within $5,000,000 of each other).
 
-<img src="/../images/nba_commandline_screenshot3.png" width="800" />
+<img src="/../images/nbacommandline_screenshot3.png" width="800" />
 
 If the trade isn't allowed, you can make adjustments to add or remove players from each trading block.
 
-<img src="/../images/nba_commandline_screenshot4.png" width="800" />
+<img src="/../images/nbacommandline_screenshot4.png" width="800" />
 
 The program won't let you add players to the trading block who don't exist or who are on the wrong team, and won't let you remove players from the trading block who aren't there.
 
-<img src="/../images/nba_commandline_screenshot5.png" width="800" />
+<img src="/../images/nbacommandline_screenshot5.png" width="800" />
 
 Once the trade is finalized, it'll give you the final breakdown.
 
-<img src="/../images/nba_commandline_screenshot6.png" width="800" />
+<img src="/../images/nbacommandline_screenshot6.png" width="800" />
 
 I believe the program works as far as adding/removing players from different teams and properly evaluating trades. I do want to keep testing edge cases to see what I need to work on, and of course I need to go back and clean up the code.
 
