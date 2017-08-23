@@ -22,4 +22,4 @@ Here I wanted to collect various websites that contain resources for data scienc
 
 ### Data Culture
 
-<a href="https://techcrunch.com/2017/06/23/five-building-blocks-of-a-data-driven-culture/" target="_blank"> Five Building Blockf os a Data-Dirven Culture</a> - This is a great article about the steps needed to build a 'data-driven culture' in a company, discussing things like having strict definitions for different metrics across the company and having a single, centralized source of data for people in the company. Great talking points to bring up in an interview to show that you're aware of what a healthy data culture looks like.
+<a href="https://techcrunch.com/2017/06/23/five-building-blocks-of-a-data-driven-culture/" target="_blank"> Five Building Blocks of a Data-Driven Culture</a> - This is a great article about the steps needed to build a 'data-driven culture' in a company, discussing things like having strict definitions for different metrics across the company and having a single, centralized source of data for people in the company. Great talking points to bring up in an interview to show that you're aware of what a healthy data culture looks like.
