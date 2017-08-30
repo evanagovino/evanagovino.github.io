@@ -20,6 +20,8 @@ Here I wanted to collect various websites that contain resources for data scienc
 
 <a href="https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/" target="_blank">40 Interview Questions Asked At Startups in Machine Learning/Data Science</a> - I don't see anything here in particular that gears these questions towards startup companies - they could be used in really any interview situation for a data scientist. I think high-level questions like these are really helpful for those getting into data science because it forces you to seek clarity in what you're learning. Often times we're taught a list of different algorithims in a curriculum but don't have much time to digest what's being given to us. Questions like these fill in the "why" and help us become both more attractive job candidates and better thinkers in solving the problems given to us.
 
+<a href="https://www.springboard.com/blog/data-science-interview-questions/" target="_blank">109 Commonly Asked Data Science Interview Questions</a>a> - This is a good one because it collects all types of potential questions, from statistics and programming to past behavior and culture.
+
 ### Data Culture
 
 <a href="https://techcrunch.com/2017/06/23/five-building-blocks-of-a-data-driven-culture/" target="_blank"> Five Building Blocks of a Data-Driven Culture</a> - This is a great article about the steps needed to build a 'data-driven culture' in a company, discussing things like having strict definitions for different metrics across the company and having a single, centralized source of data for people in the company. Great talking points to bring up in an interview to show that you're aware of what a healthy data culture looks like.
