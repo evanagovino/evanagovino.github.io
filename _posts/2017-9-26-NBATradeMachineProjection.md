@@ -17,7 +17,7 @@ Still, I'm more concerned with predicting the teams' actual records. Below is th
 
 <img src="/../images/winshares_v_wins.png" width="800" />
 
-<img src="/../images/winshares_v_wins_two.png" width="800" />
+<img src="/../images/winshares_v_wins_two.png" height='500' />
 
 43% of teams fall within an error of one game, 62% of teams fall within an error of two games and 74% of teams fall within an error of three games. This is far from perfect, but it shows that aggregate win shares can decently predict where a team will end up.
 
