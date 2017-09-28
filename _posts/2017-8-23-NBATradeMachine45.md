@@ -21,7 +21,11 @@ So how can I break it?
 
 5) Push the limits of the machine. 5-team trade? 10-team trade? 30-team trade?
 
-6) What if I made a program to try and push through every single trade possible and posted results? How many combinations are out there?
+6) Include a team twice in a three or four-team trade
+
+7) What if I made a program to try and push through every single trade possible and posted results? How many combinations are out there?
+
+
 
 These are just a few examples, but hopefully they'll help me think about the program as I continue to develop it, both in de-bugging it and evaluating what's possible, realistic and useful for it.
 
