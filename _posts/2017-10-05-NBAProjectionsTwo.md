@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: post
 title: NBA Projections Part Two: Rookies
 ---
 
