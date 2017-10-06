@@ -1,12 +1,7 @@
-<<<<<<< HEAD
----  
-layout: post  
-title: NBA Projections Part Two - Rookies
-=======
+
 ---
 layout: post
-title: NBA Projections Part Two
->>>>>>> 6d7c4ac94d79a572d10469b84fa59a8538ccab30
+title: NBA Projections Part Two - Rookies
 ---
 
 The first order of business in projecting NBA performance for the upcoming season is predicting the performance of rookie players.

@@ -1,6 +1,6 @@
----  
+--- 
 layout: post  
-title: NBA Projections Part One
+title: NBA Projections Part Two: Rookies
 ---
 
 The first order of business in projecting NBA performance for the upcoming season is predicting the performance of rookie players.
@@ -108,14 +108,5 @@ There's not much of a contribution from undrafted players.
 And here are players from previous years. The model has Ben Simmons having far and away the biggest contribution out of all the rookies, which I happen to agree with.
 
 That's all for now - next I'll look at veterans and predicting both their minutes played and win shares.
-
-
-
-
-
-
-
-
-
 
 
