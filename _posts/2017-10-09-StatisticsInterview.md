@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Interview Questions - What is the Central Limit Theorem?
+title: What is the Central Limit Theorem?
 ---
-
-## What is the Central Limit Theorem?
 
 The central limit theorem is the idea that if you have a population with an arbitrary distribution, the mean of repeated samples from this population will be equal to the mean of the population itself.
 
