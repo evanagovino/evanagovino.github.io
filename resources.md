@@ -16,6 +16,10 @@ Here I wanted to collect various websites that contain resources for data scienc
 
 <a href="https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/" target="_blank">A Comprehensive Beginner's Guide to Create a Time Series Forecast</a> - One topic that seems relatively undercovered to me in a lot of data science tutorials is time series models. This post, complete with Python code, introduces you to concepts like stationarity, moving averages, decomposition and ARIMA forecasting. It's a good jumping off point to learn more about doing time series forecasts.
 
+# SQL
+
+<a href="https://www.toptal.com/sql/interview-questions" target="_blank">44 Essential SQL Questions</a> - There's a ton of SQL tutorials out there, but this prep prepares you for questions someone may ask you in an interview.
+
 ### Example Questions
 
 <a href="https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/" target="_blank">40 Interview Questions Asked At Startups in Machine Learning/Data Science</a> - I don't see anything here in particular that gears these questions towards startup companies - they could be used in really any interview situation for a data scientist. I think high-level questions like these are really helpful for those getting into data science because it forces you to seek clarity in what you're learning. Often times we're taught a list of different algorithims in a curriculum but don't have much time to digest what's being given to us. Questions like these fill in the "why" and help us become both more attractive job candidates and better thinkers in solving the problems given to us.
