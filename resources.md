@@ -16,7 +16,7 @@ Here I wanted to collect various websites that contain resources for data scienc
 
 <a href="https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/" target="_blank">A Comprehensive Beginner's Guide to Create a Time Series Forecast</a> - One topic that seems relatively undercovered to me in a lot of data science tutorials is time series models. This post, complete with Python code, introduces you to concepts like stationarity, moving averages, decomposition and ARIMA forecasting. It's a good jumping off point to learn more about doing time series forecasts.
 
-# SQL
+## SQL
 
 <a href="https://www.toptal.com/sql/interview-questions" target="_blank">44 Essential SQL Questions</a> - There's a ton of SQL tutorials out there, but this prep prepares you for questions someone may ask you in an interview.
 
