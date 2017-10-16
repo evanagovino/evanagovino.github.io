@@ -20,9 +20,11 @@ Here I wanted to collect various websites that contain resources for data scienc
 
 <a href="https://www.toptal.com/sql/interview-questions" target="_blank">44 Essential SQL Questions</a> - There's a ton of SQL tutorials out there, but this prep prepares you for questions someone may ask you in an interview.
 
+<a href="https://www.tutorialspoint.com/sql/pdf/sql_interview_questions.pdf">SQL Interview Questions</a> - This is another good one that lists potential SQL interview questions. I'd say the first's hardest questions are harder are harder than this and the questions are more in-depth, but in terms of pure quantity there's several more questions here for all skill levels. Highly recommended.
+
 ### Statistics
 
-<a href="https://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/" target="_blank">Common Probability Distributions: The Data Scientist's Crib Sheet</a> Here's a handy quick read that describes some common distributions and how they're related.
+<a href="https://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/" target="_blank">Common Probability Distributions: The Data Scientist's Crib Sheet</a>  - Here's a handy quick read that describes some common distributions and how they're related.
 
 ### Example Questions
 
