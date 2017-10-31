@@ -16,15 +16,21 @@ Here I wanted to collect various websites that contain resources for data scienc
 
 <a href="https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/" target="_blank">A Comprehensive Beginner's Guide to Create a Time Series Forecast</a> - One topic that seems relatively undercovered to me in a lot of data science tutorials is time series models. This post, complete with Python code, introduces you to concepts like stationarity, moving averages, decomposition and ARIMA forecasting. It's a good jumping off point to learn more about doing time series forecasts.
 
+<a href="https://blog.dominodatalab.com/ab-testing-with-hierarchical-models-in-python/" target="_blank">A/B Testing With Hierarchical Models in Python</a> - 
+
 ### SQL
 
 <a href="https://www.toptal.com/sql/interview-questions" target="_blank">44 Essential SQL Questions</a> - There's a ton of SQL tutorials out there, but this prep prepares you for questions someone may ask you in an interview.
 
-<a href="https://www.tutorialspoint.com/sql/pdf/sql_interview_questions.pdf">SQL Interview Questions</a> - This is another good one that lists potential SQL interview questions. I'd say the first's hardest questions are harder are harder than this and the questions are more in-depth, but in terms of pure quantity there's several more questions here for all skill levels. Highly recommended.
+<a href="https://www.tutorialspoint.com/sql/pdf/sql_interview_questions.pdf" target="_blank">SQL Interview Questions</a> - This is another good one that lists potential SQL interview questions. I'd say the above's hardest questions are harder than the hardest questions here (they're also more in-depth), but in terms of pure quantity there's several more questions here for all skill levels. Highly recommended.
 
 ### Statistics
 
 <a href="https://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/" target="_blank">Common Probability Distributions: The Data Scientist's Crib Sheet</a>  - Here's a handy quick read that describes some common distributions and how they're related.
+
+### Linear Algebra
+
+<a href="" target="_blank">The Essence of Linear Algebra</a> - This video series from 3Blue1Brown is a great way to gain an intuitive understanding of linear algebra.
 
 ### Example Questions
 
@@ -36,4 +42,4 @@ Here I wanted to collect various websites that contain resources for data scienc
 
 <a href="https://techcrunch.com/2017/06/23/five-building-blocks-of-a-data-driven-culture/" target="_blank"> Five Building Blocks of a Data-Driven Culture</a> - This is a great article about the steps needed to build a 'data-driven culture' in a company, discussing things like having strict definitions for different metrics across the company and having a single, centralized source of data for people in the company. Great talking points to bring up in an interview to show that you're aware of what a healthy data culture looks like.
 
-<a href="http://www.thedatasciencehandbook.com/" target="_blank"> The Data Science Handbook</a> - This "pay as you wish" ebook contains interviews with 25 data scientists from companies like AirBNB, Facebook, and Palantir that cover their different backgrounds and approaches to data science. I thought the George Roumeliotis and John Foreman interviews in particular were helpful for talking points about establishing a data-driven culture.
+<a href="http://www.thedatasciencehandbook.com/" target="_blank"> The Data Science Handbook</a> - This "pay as you wish" ebook contains interviews with 25 data scientists from companies like AirBNB, Facebook, and Palantir that cover their different backgrounds and approaches to data science. I thought the George Roumeliotis (AirBNB) and John Foreman (Mailchimp) interviews in particular were helpful for talking points about establishing a data-driven culture. I also really recommend John Foreman's 'Data Smart' which is a great introduction to learning data science concepts via Excel.
