@@ -148,7 +148,7 @@ def pick_song(tempo, track_uris, new_df, percentile):
 
 ````
 
-Here's a test playlist created at a tempo of 100. The playlist has a nice balance of hip-hop, R&B, classic rock and soul and Chumbawamba. 
+Here's a test playlist created at a tempo of 100. The playlist has a nice balance of hip-hop, R&B, classic rock and soul and Chumbawamba (the number after the song title is the tempo and the last number is the valence).
 
 <img src="/../images/sample_playlist.png" width="800" />
 
